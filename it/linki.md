@@ -13,3 +13,11 @@
 *   **Opis:** strona gdzie można sprawdzić zużycie tokenów openai
 
 *   **Autor:** ajmag
+
+---
+
+### Nowy wpis (1.10.2025, 22:47:02)
+
+*   **Link:** [https://www.chess.com/](https://www.chess.com/)
+*   **Opis:** strona do grania w szachy 
+*   **Autor:** ajmag
