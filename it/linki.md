@@ -37,3 +37,11 @@
 *   **Link:** [https://mikr.us/?r=624a6621](https://mikr.us/?r=624a6621)
 *   **Opis:** serwery vps, hosting, hostowanie n8n 
 *   **Autor:** ajmag
+
+---
+
+### Nowy wpis (2.10.2025, 13:06:31)
+
+*   **Link:** [https://console.groq.com/](https://console.groq.com/)
+*   **Opis:** darmowe api llm (llama) 
+*   **Autor:** ajmag
