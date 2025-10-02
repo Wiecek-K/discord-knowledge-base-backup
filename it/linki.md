@@ -21,3 +21,11 @@
 *   **Link:** [https://www.chess.com/](https://www.chess.com/)
 *   **Opis:** strona do grania w szachy 
 *   **Autor:** ajmag
+
+---
+
+### Nowy wpis (2.10.2025, 13:02:46)
+
+*   **Link:** [https://mikr.us/?r=624a6621](https://mikr.us/?r=624a6621)
+*   **Opis:** serwery vps, hosting, hostowanie n8n 
+*   **Autor:** ajmag
