@@ -45,3 +45,11 @@
 *   **Link:** [https://console.groq.com/](https://console.groq.com/)
 *   **Opis:** darmowe api llm (llama) 
 *   **Autor:** ajmag
+
+---
+
+### Nowy wpis (15.10.2025, 07:42:00)
+
+*   **Link:** [https://www.youtube.com/watch?v=mC4GQTy5sqk](https://www.youtube.com/watch?v=mC4GQTy5sqk)
+*   **Opis:** fajna muzyka  
+taki medivaln tavern
