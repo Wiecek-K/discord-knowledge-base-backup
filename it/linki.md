@@ -4,3 +4,4 @@
 | [Obsidian Stats](https://www.obsidianstats.com/new "https://www.obsidianstats.com/new") | Przeglądarka pluginów Obsidian z filtrami i statystykami                                                                                                                                                                                                                           |
 | [The 500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)   | Zbiór starannie dobranych przypadków użycia agentów AI w różnych branżach, prezentujących praktyczne zastosowania i linkujących do projektów open source do wdrożenia. Odkryj, jak agenci AI transformują branże takie jak opieka zdrowotna, finanse, edukacja i wiele innych! 🤖✨ |
 | [link](https://www.youtube.com/watch?v=mC4GQTy5sqk) | fajna muzyka   taki medivaln tavern |
+| [strona do grania w szachy](https://www.chess.com/) | strona do grania w szachy |
