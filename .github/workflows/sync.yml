@@ -43,15 +43,9 @@ jobs:
       - name: 4. Install Python dependencies from bot repo
         run: pip install -r skryba-bot-code/requirements.txt
 
-      # Krok 5: Krok diagnostyczny do wyświetlenia URL
-      - name: 5. Display connection details
-        env:
-          # Ta zmienna jest tworzona tylko dla tego kroku
-          QDRANT_URL_FOR_LOGGING: http://${{ secrets.QDRANT_HOST_IP }}:6333
-        run: echo  "$QDRANT_URL_FOR_LOGGING" && echo "QDRANT HOST IP"
 
-      # Krok 6: Uruchomienie głównego skryptu
-      - name: 6. Run the sync script from bot repo
+      # Krok 5: Uruchomienie głównego skryptu
+      - name: 5. Run the sync script from bot repo
         run: python skryba-bot-code/bot/scripts/sync_to_qdrant.py
         env:
           QDRANT_HOST: ${{ secrets.QDRANT_HOST_IP }}
