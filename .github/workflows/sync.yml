@@ -15,6 +15,7 @@ on:
 jobs:
   sync-data:
     runs-on: ubuntu-latest
+    environment: production
     steps:
       # KROK 1: Pobierz zawartość REPOZYTORIUM WIEDZY (tego, w którym działa workflow)
       - name: 1. Checkout Knowledge Base repository
